@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: service-template
-          image: victorf13/service-template:f10a1b4
+          image: victorf13/service-template:eb5c816
           imagePullPolicy: IfNotPresent
           ports:
             - name: http
